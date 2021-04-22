@@ -6,5 +6,5 @@ This is a simple datatype written in C++ which holds a number up to two decimal 
  - include TwoDP.h in your file.
  
 ````C++
- #include "TwoDP.h"
+ #include "TwoDP.cpp"
 ````
